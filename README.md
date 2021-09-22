@@ -1,4 +1,4 @@
-# hello_world
+# Flutter ingrate Firebase
 
 A new Flutter project.
 
